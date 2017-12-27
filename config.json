@@ -1,0 +1,10 @@
+{
+    "training_settings":{
+        "learning_rate" : 1e-5,
+        "epoch" : 2000,
+        "size_hidden_1" : 128,
+        "size_hidden_2" : 32,
+        "batch_size" : 64,
+        "eval_every_n_steps" : 2000
+    }
+}
